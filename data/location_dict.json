@@ -1,0 +1,122 @@
+{
+    "glanerbeek": {
+        "F1_1_ATMOS_SMST1": {
+            "logger_id": "z6-21176",
+            "depths": [
+                5,
+                10,
+                20,
+                40,
+                80
+            ]
+        },
+        "F1_2_SMST2": {
+            "logger_id": "z6-21178",
+            "depths": [
+                2,
+                5,
+                10,
+                20,
+                40,
+                80
+            ]
+        },
+        "F1_3_SMST3": {
+            "logger_id": "z6-25928",
+            "depths": [
+                2,
+                5,
+                10,
+                20,
+                40,
+                80
+            ]
+        },
+        "F1_4_WPST": {
+            "logger_id": "z6-25927",
+            "depths": [
+                2,
+                5,
+                10,
+                20,
+                40,
+                80
+            ]
+        },
+        "F2_1_ATMOS_SMST1": {
+            "logger_id": "z6-21177",
+            "depths": [
+                5,
+                10,
+                20,
+                40,
+                80
+            ]
+        },
+        "F2_2_SMST2": {
+            "logger_id": "z6-21179",
+            "depths": [
+                2,
+                5,
+                10,
+                20,
+                40,
+                80
+            ]
+        }
+    },
+    "ketelbroek": {
+        "K1_ATMOS_SMST": {
+            "logger_id": "z6-21180",
+            "depths": [
+                5,
+                10,
+                20,
+                40,
+                80
+            ]
+        },
+        "K2_ATMOS_SMST": {
+            "logger_id": "z6-08819",
+            "depths": [
+                5,
+                10,
+                20,
+                40,
+                80
+            ]
+        }
+    },
+    "wenumsveld": {
+        "W1_ATMOS_SMST1": {
+            "logger_id": "z6-08820",
+            "depths": [
+                2,
+                5,
+                10,
+                20,
+                40,
+                80
+            ]
+        },
+        "W1_SMST2": {
+            "logger_id": "z6-08823",
+            "depths": [
+                5,
+                10,
+                20,
+                40
+            ]
+        },
+        "W1_SMST3": {
+            "logger_id": "z6-08822",
+            "depths": [
+                5,
+                10,
+                20,
+                40,
+                80
+            ]
+        }
+    }
+}
